@@ -5752,7 +5752,7 @@
 },
 {
 	"id": 1447,
-	"name": "Hardy(Fuerte) Nature Herb",
+	"name": "Hardy Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1447,
@@ -5761,7 +5761,7 @@
 },
 {
 	"id": 1448,
-	"name": "Lonely(Huraña) Nature Herb",
+	"name": "Lonely Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1448,
@@ -5770,7 +5770,7 @@
 },
 {
 	"id": 1449,
-	"name": "Brave(Audaz) Nature Herb",
+	"name": "Brave Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1449,
@@ -5779,7 +5779,7 @@
 },
 {
 	"id": 1450,
-	"name": "Adamant(Firme) Nature Herb",
+	"name": "Adamant Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1450,
@@ -5788,7 +5788,7 @@
 },
 {
 	"id": 1451,
-	"name": "Naughty(Pícara) Nature Herb",
+	"name": "Naughty Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1451,
@@ -5797,7 +5797,7 @@
 },
 {
 	"id": 1452,
-	"name": "Bold(Osada) Nature Herb",
+	"name": "Bold Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1452,
@@ -5806,7 +5806,7 @@
 },
 {
 	"id": 1453,
-	"name": "Docile(Dócil) Nature Herb",
+	"name": "Docile Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1453,
@@ -5815,7 +5815,7 @@
 },
 {
 	"id": 1454,
-	"name": "Relaxed(Plácida) Nature Herb",
+	"name": "Relaxed Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1454,
@@ -5824,7 +5824,7 @@
 },
 {
 	"id": 1455,
-	"name": "Impish(Agitada) Nature Herb",
+	"name": "Impish Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1455,
@@ -5833,7 +5833,7 @@
 },
 {
 	"id": 1456,
-	"name": "Lax(Floja) Nature Herb",
+	"name": "Lax Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1456,
@@ -5842,7 +5842,7 @@
 },
 {
 	"id": 1457,
-	"name": "Timid(Miedosa) Nature Herb",
+	"name": "Timid Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1457,
@@ -5851,7 +5851,7 @@
 },
 {
 	"id": 1458,
-	"name": "Hasty(Activa) Nature Herb",
+	"name": "Hasty Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1458,
@@ -5860,7 +5860,7 @@
 },
 {
 	"id": 1459,
-	"name": "Serious(Seria) Nature Herb",
+	"name": "Serious Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1459,
@@ -5869,7 +5869,7 @@
 },
 {
 	"id": 1460,
-	"name": "Jolly(Alegre) Nature Herb",
+	"name": "Jolly Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1460,
@@ -5878,7 +5878,7 @@
 },
 {
 	"id": 1461,
-	"name": "Naive(Ingenua) Nature Herb",
+	"name": "Naive Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1461,
@@ -5887,7 +5887,7 @@
 },
 {
 	"id": 1462,
-	"name": "Modest(Modesta) Nature Herb",
+	"name": "Modest Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1462,
@@ -5896,7 +5896,7 @@
 },
 {
 	"id": 1463,
-	"name": "Mild(Afable) Nature Herb",
+	"name": "Mild Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1463,
@@ -5905,7 +5905,7 @@
 },
 {
 	"id": 1464,
-	"name": "Quiet(Mansa) Nature Herb",
+	"name": "Quiet Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1464,
@@ -5914,7 +5914,7 @@
 },
 {
 	"id": 1465,
-	"name": "Bashful(Tímida) Nature Herb",
+	"name": "Bashful Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1465,
@@ -5923,7 +5923,7 @@
 },
 {
 	"id": 1466,
-	"name": "Rash(Alocada) Nature Herb",
+	"name": "Rash Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1466,
@@ -5932,7 +5932,7 @@
 },
 {
 	"id": 1467,
-	"name": "Calm(Serena) Nature Herb",
+	"name": "Calm Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1467,
@@ -5941,7 +5941,7 @@
 },
 {
 	"id": 1468,
-	"name": "Gentle(Amable) Nature Herb",
+	"name": "Gentle Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1468,
@@ -5950,7 +5950,7 @@
 },
 {
 	"id": 1469,
-	"name": "Sassy(Grosera) Nature Herb",
+	"name": "Sassy Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1469,
@@ -5959,7 +5959,7 @@
 },
 {
 	"id": 1470,
-	"name": "Careful(Cauta) Nature Herb",
+	"name": "Careful Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1470,
@@ -5968,7 +5968,7 @@
 },
 {
 	"id": 1471,
-	"name": "Quirky(Rara) Nature Herb",
+	"name": "Quirky Nature Herb",
 	"desc": "An herb which modifies the Nature of a\nPokémon. It can only be used with\nsome Legendary Pokémon and Unown.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1471,
